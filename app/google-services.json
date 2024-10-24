@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "391083010003",
+    "firebase_url": "https://mai-center-edcd8-default-rtdb.firebaseio.com",
+    "project_id": "mai-center-edcd8",
+    "storage_bucket": "mai-center-edcd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391083010003:android:32b726c9cae24a80453126",
+        "android_client_info": {
+          "package_name": "m.aicenter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv9uUsL70TbY-uxVRTwCRNEU8YLfgd7o0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
